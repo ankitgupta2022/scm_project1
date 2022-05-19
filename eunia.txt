@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Eunoia</title>
+    <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5alIHsoPpdj5fZ76cua4O7pKDJ71JmLBw_IC3Co4Yl3Qrgf82YIVV9Hn_rap_TUrmXyI&amp;usqp=CAU">
+    <script src="https://kit.fontawesome.com/90d92658fe.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="style2.css">
+    
+    
+</head>
+<body>
+    <nav class="navbar">
+        <h1 class="logo">EUNOIA</h1>
+        <ul class="nav-links">
+            <!--<li class="ctn"><a href="#"></a><b>Mental Health</b></li>-->
+            <li class="ctn"><a href="file:///C:/Users/harsh/OneDrive/Desktop/project/log%20in.html" ><b>Log In</b></a></li>
+            <li class="ctn"><a href="file:///C:/Users/harsh/OneDrive/Desktop/project/covid.html" ><b>Covid</b></a></li>
+            <li class="ctn"><a href="file:///C:/Users/harsh/OneDrive/Desktop/project/sign%20up.html"><b>Sign Up</b></a></li>
+            <li class="ctn"><a href="file:///C:/Users/harsh/OneDrive/Desktop/project/about%20us.html"><b>Team</b></a></li>
+            <li class="ctn"><a href="file:///C:/Users/harsh/OneDrive/Desktop/project/contact%20en.html"><b>Contact</b></a></li>
+            <li class="ctn"><a href="file:///C:/Users/harsh/OneDrive/Desktop/project/Social%20Media.html"><b>Social Media</b></a></li>
+        </ul>
+    </nav>
+    <header>
+        <div class="header-content">
+            <h2>Eunoia</h2>
+            <a href="#e" class="ctn"><b>Explore</b></a>
+        </div>
+    </header>
+    <div id="about">
+        <h1 class="c1 c2">EUNOIA</h1>
+        <h3 class="c1 c2">A feeling of goodwill (= being friendly and wanting to help), especially one that exists between a speaker and an audience:
+        The speaker must also exhibit ethos, which for Aristotle encompasses wisdom (phronesis), virtue (arete), and good will (eunoia).
+         More examples
+        In rhetoric, eunoia is the goodwill a speaker cultivates between themself and their audience, a condition of receptivity.
+        Aristotle uses the term "eunoia" to refer to the kind and benevolent feelings of goodwill that a spouse has and that form the 
+        basis for the ethical foundation of human life.</h3>
+        </div>
+        <section id="e">
+        <div class="real-explore">
+            <div class="e-heading"> Explore</div>
+        </div></section>
+    
+        <!--<div class="row">
+            <div class="col">
+                <img src="image1.jpeg" alt="" height="400px" width="350px">
+                <h4>Mental health</h4>
+                <p>Learn about mental illness, mental health, and ways to 
+                    cope with various mental issues.</p>
+                  
+
+            </div>
+            <div class="col"><a href="https://www.betterhealth.vic.gov.au/health/servicesandsupport/types-of-mental-health-issues-and-illnesses">
+                <img src="image2.jpeg" alt="" height="400px" width="350px"></a>
+                <h4>Social issues</h4>
+                <p>Series of blog posts about LGBTQ, Women empowerment,
+                    and many other social issues.</p>
+                    
+
+            </div>
+            <div class="col"><a href="https://covid19.who.int/">
+                <img src="covid19.jpeg" alt="" height="400px" width="350px"></a>
+                <h4>Covid</h4>
+                <p>An awareness drive about covid related queries and
+                    the fear about covid vaccinations.</p>
+                  
+
+            </div>
+        </div>-->
+    <section>
+        <div class="bada-thalla">
+            <div class="chhota-thalla">
+                <figure>
+                    <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/podcast.html" >
+                        <img src="https://images.unsplash.com/photo-1616356607338-fd87169ecf1a?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80">
+                        <fig caption="" class="caption">Podcasts</fig>
+                    </a>
+                </figure>
+                <!--<div class="hover-items">
+                    Tap on the banner to enjoy the latest podcasts audios, music, recipes etc.
+                </div>-->
+            </div>
+            <div class="chhota-thalla border">
+                <figure>
+                    <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/covid.html" >
+                        <img src="https://media.istockphoto.com/photos/corona-virus-covid19-black-picture-id1218271660?k=20&amp;m=1218271660&amp;s=170667a&amp;w=0&amp;h=UEvLpg6cd_Kw4RdJRIgSjb94e7yTgdJV9sdZ298qQHY=" width="400px">
+                        <fig caption="" class="caption">Covid </fig>
+                    </a>
+                </figure>
+            </div>
+            <div class="chhota-thalla">
+                <figure>
+                    <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/amusement.html">
+                        <img src="https://c4.wallpaperflare.com/wallpaper/380/24/860/dj-turntable-purple-music-wallpaper-preview.jpg">
+                        <fig caption="" class="caption">Amusement</fig>
+                    </a>
+                </figure>
+            </div>
+            <div class="chhota-thalla">
+                <figure>
+                    <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/therapy.html">
+                        <img src="https://www.wallpapertip.com/wmimgs/145-1451791_doctor-wallpapers-hd-pixelstalk-amazing-k-ultra-hd.jpg">
+                        <fig caption="" class="caption">Therapy Sessions</fig>
+                    </a>
+                </figure>
+            </div>
+            <div class="chhota-thalla"><figure>
+                <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/book.html">
+                    <img src="https://c4.wallpaperflare.com/wallpaper/412/184/868/art-books-butterfly-magic-wallpaper-preview.jpg">
+                    <fig caption="" class="caption">E-Books</fig>
+                </a>
+            </figure>
+
+            </div>
+            <div class="chhota-thalla">
+                <figure>
+                    <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/motivation.html">
+                        <img src="https://images.wallpaperscraft.com/image/single/motivation_phrase_notebook_178598_1920x1080.jpg">
+                        <fig caption="" class="caption">Motivation</fig>
+                    </a>
+                </figure>
+            </div>
+            <div class="chhota-thalla">
+                <figure>
+                    <a href="file:///C:/Users/harsh/OneDrive/Desktop/project/blogs.html">
+                        <img src="https://images.unsplash.com/photo-1604933762023-7213af7ff7a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80">
+                        <fig caption="" class="caption">Blogs</fig>
+                    </a>
+                </figure>
+            </div>
+            
+            <div class="path">
+                <div class="icon">
+                    <i class="fas fa-paper-plane" aria-hidden="true"></i>
+                </div>
+            </div>
+
+          
+        </div>
+
+    </section>
+    <section class="explore" id="explore">
+        <div class="explore-content">
+            <h1>Life!</h1>
+            <p>Life is short...
+            Live it to the fullest...
+            Be an Eunoial...
+            Think best and do good...
+            Whatever you think matters a lot....
+            If you think you can do it,
+            Then definitely you will....
+            If you think you are beaten,
+            You are....
+            If you think you dare,
+            You will...
+            If you like to win, but you think you can't,
+            It's almost a cinch you won't...
+            Be a kalon by enhancing you thoughts...
+            Life's battle don't always get to those,
+            Who are strongest and fastest....
+            But sooner or later to the man who thinks he can!!!!!!</p>
+        </div>       
+    </section>
+    
+    <section id="contact">
+        <div class="contact">
+            <div class="c-img"><img src="C:\Users\harsh\Downloads\WhatsApp Image 2022-05-19 at 12.09.02 AM.jpeg"></div>
+            <div class="c-form">
+                <h1>Contact Us!</h1>
+                <form name="frmone" action="" method="post">
+                    <!--<div bgcolor="red" align="center"  font-size="100">-->
+                    <div class="form">
+                    <p>
+                    Name:<br><input type="text" name="name" value="" placeholder="enter your name" required>
+                    <span style="color:purple;" id="enter your name"></span>
+                    </p>
+                    <p>
+                   <!-- address:<input type="text" name="address" value="" placeholder="enter your address" >
+                    <span style=class="c1"; ID="enter your address"></span>
+                    </p>-->
+                    </p><p>
+                    Phone:<br><input type="text" name="phone" value="" placeholder="enter your phone number" required>
+                    <span style="color:purple;" id="enter your phone number"></span>
+                    </p>
+                    <p>
+                    Email:<br><input type="text" name="email" value="" placeholder="email address" required>
+                    <span style="color:purple;" id="email_error"></span>
+                    </p>
+                    <p>
+                    <!--subject:<input type="text" name="subject" value="" placeholder="type the subject">
+                    <span style=color=purple; ID="type the subject"></span>
+                    </p>-->
+                    </p><p>
+                    Feedback:<!--<input type="text" name="message" value="" placeholder="type your message here......">--><br>
+                    <textarea rows="10" cols="30"></textarea>
+                    <span style="color:purple;" id="email_error"></span>
+                    </p>
+                    <p>&nbsp;</p>
+                    <!--<input type="submit" value="submit" class="button" onclick="validate()">-->
+                    <button>SUBMIT</button>
+                
+            </div></form>
+        </div>
+    </div></section>
+
+</body></html>
+</head>
+<body>
+    
+</body>
+</html>
